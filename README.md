@@ -15,7 +15,7 @@ Then install the package:
 
  * Open the Command Pallete (`ctrl+shift+p` or `cmd+shift+p`)
  * Select `Package Control: Install Package`
- * Select `Fold Imports`
+ * Select `sublime-text-fold-imports`
 
 Usage
 -----
